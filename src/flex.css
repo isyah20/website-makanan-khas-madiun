@@ -1,0 +1,11 @@
+@media screen and (min-width: 240px) and (max-width: 1920px){
+    .App{
+        background-color: red;
+    }
+}
+
+@media print {
+    .App {
+        color: green;
+    }
+}
